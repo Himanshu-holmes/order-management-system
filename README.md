@@ -1,2 +1,2 @@
 # order-management-system
-##  micro-services in Golang with gRPC
+  micro-services in Golang with gRPC
